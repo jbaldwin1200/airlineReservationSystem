@@ -1,0 +1,25 @@
+Requirements:
+
+  Each flight needs:
+  Flight Number
+  Flight Date
+  Departure Time 
+  Arrival Time
+  Departure City
+  Destination City
+  Number of available seats
+
+  Passenger seat reservation info:
+  Passenger ID Number (Drive License #, passport, or id)
+  Name
+  Seat Number
+  Flight Number
+
+
+Design/Steps:
+
+  Main Menu (Defined in project pdf)
+
+  Assign Seats
+  
+  Display Seat design chart
